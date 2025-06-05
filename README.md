@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Gutembergue Martins 🖐🏾
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://digitalinnovationone.github.io/roadmaps/)
-[![Blog](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://englishtest.duolingo.com/applicants)
-[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DigitalInnovationOne)
 
 ![Gutembergue GitHub Stats](https://github-readme-stats.vercel.app/api?username=gutembergue-martins&show_icons=true&theme=dracula)
 
