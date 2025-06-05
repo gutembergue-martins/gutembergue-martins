@@ -12,9 +12,10 @@ style="display: inline_block"/>
 style="display: inline_block"/>
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div></br>
-Tenho como foco compreender as problemáticas deste planeta desigual, de forma que através da análise de dados e inteligência artificial possamos ter um mundo mais equilibrado.
+
+A mudança começa em nós mesmos, e para isso mantenho-me focado caminhando sempre em busca de novos conhecimentos.
 
 ## Últimos vídeos:
--[IA e o Combate à Fome e à Insegurança Alimentar](https://www.youtube.com/watch?v=rzn_WIrMX1Y)</br>
+
 -[Você sabe extrair informações de dados?](https://www.youtube.com/watch?v=RlGOaSPFtXc)</br>
--[Santander Bootcamp 2023](https://www.youtube.com/watch?v=y--4r-TKC7c)</br>
+
