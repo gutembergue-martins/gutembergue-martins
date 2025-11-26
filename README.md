@@ -13,7 +13,19 @@ style="display: inline_block"/>
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div></br>
 
-A mudança começa em nós mesmos, e para isso mantenho-me focado caminhando sempre em busca de novos conhecimentos.
+Bem-vindo ao meu portfólio! 👋
+
+Após uma carreira sólida na Aviação Naval lidando com sistemas críticos e manutenção de helicópteros, estou migrando para a Análise de Dados.
+
+🚀 O que você vai encontrar aqui:
+
+Projetos focados em resolução de problemas reais.
+
+Códigos em Python e SQL documentados.
+
+Análises que priorizam a eficiência e a inteligência de negócio.
+
+Fique à vontade para explorar meus repositórios fixados abaixo!"
 
 ## Últimos vídeos:
 
